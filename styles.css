@@ -33,6 +33,11 @@ h1,h2,h3,h4,h5,h6{
   bottom: -7px;
   left:5px;
 }
+.image-title-secondary{
+  position:absolute;
+  top: 7px;
+  left:5px;
+}
 /* .image-title-primary:hover{
   position:absolute;
   bottom: 50%;
